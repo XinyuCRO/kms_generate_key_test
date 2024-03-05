@@ -1,0 +1,5 @@
+.pytest_cache
+
+key_0.json
+
+*.log
